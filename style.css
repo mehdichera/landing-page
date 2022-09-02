@@ -137,12 +137,12 @@
      border-radius: 5px;
      color: #f9faf8;
      padding: 10px 25px;
-     margin-left: 200px;
+     margin-left: 18%;
 }
 .footer {
     background-color: #1f2937;
     color: #E5E7EB;
-    padding: 20px 60px;
+    padding: 20px 0px;
     font-family: 'Roboto', sans-serif;
     display: flex;
     justify-content: center;
