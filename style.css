@@ -3,6 +3,9 @@
     justify-content: space-between;
     padding-bottom: 60px;
 }
+body {
+    margin:0px;
+}
 .header.logo {
      color: #f9faf8;
      font-size: 24px; 
@@ -144,5 +147,5 @@
     align-items: center; 
 }
 .copyright{
-    width:479;
+    width: 479px;
 }
