@@ -3,14 +3,15 @@
     justify-content: space-between;
     padding-bottom: 60px;
 }
-body {
-    display: flex;
-    flex-direction: column;
-    margin:0px;
-}
+ body {
+     display: flex;
+     flex-direction: column;
+     margin: 0%;  
+ }
 .header.logo {
      color: #f9faf8;
-     font-size: 24px; 
+     font-size: 24px;
+    
 }
  ul {
      list-style-type: none;
@@ -48,9 +49,9 @@ body {
     border-radius: 10px;
 
 }
- img {
-     width: 780px;
-     height: 450px
+.image {
+     width: 60%;
+     height: 380px;
  }
 .container3 {
     display: flex;
@@ -68,16 +69,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 30px;
+    gap: 20px;
     padding-top: 45px;
-    padding-bottom: 80px;
+    padding-bottom: 85px;
 }
 .i4 {
-    width: 180px;
-    height: 200px;
-    border: 20px;
-    border-radius: 15px;
-    border-color: green;
+    width: 15%;
+    height: 15%;
+    border-radius: 10px;
 } 
 .header3 {
     font-size: 36px;
@@ -87,10 +86,6 @@ body {
     justify-content: center;
     align-items: center;
     padding-top: 45px;
-    font-family: 'Roboto', sans-serif;;
-}
-.aot {
-    width: 180px;
     font-family: 'Roboto', sans-serif;;
 }
 .part4 {
@@ -107,11 +102,11 @@ body {
     font-weight: lighter;
     font-style: italic;
     color: #1f2937;
-    width: 800px;
+    width: 70%;
     font-family: 'Roboto', sans-serif;;
 }
 .source {
-    margin-left: 580px;
+    margin-left: 100%;
     font-weight: bolder;
 }
 .part5 {
@@ -133,7 +128,7 @@ body {
      border-radius: 5px;
      color: #f9faf8;
      padding: 10px 25px;
-     margin-left: 18%;
+     margin-left: 75%;
 }
 .footer {
     background-color: #1f2937;
@@ -142,8 +137,15 @@ body {
     font-family: 'Roboto', sans-serif;
     display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
 }
-.copyright{
+.copyright {
     width: 30%;
+}
+.part2{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
